@@ -1,0 +1,16 @@
+{
+  "name": "react-utils",
+  "version": "1.0.0",
+  "description": "### Mostly borrowed from brighter minds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/arvidede/react-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/arvidede/react-utils#readme"
+}
